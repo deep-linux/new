@@ -1,5 +1,3 @@
-workflows directory of your repository.
-
 name: Node.js CI
 
 on: [push]
